@@ -1,5 +1,7 @@
 package domain;
 
 public class Student {
-    private Integer stuId;
+    private Integer stuid;
+
+    
 }
